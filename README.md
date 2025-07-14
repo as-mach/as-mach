@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My name is Alex and I'm a recent Computer Science graduate!
 
 <!--
 **as-mach/as-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
